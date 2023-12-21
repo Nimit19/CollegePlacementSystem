@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Projects
-=======
-# placement
+
+# Collage Placement System
 
 A new Flutter project.
 
