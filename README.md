@@ -1,1 +1,1 @@
-# Collage Placement System
+# College Placement System
